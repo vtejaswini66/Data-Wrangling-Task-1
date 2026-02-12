@@ -18,6 +18,8 @@ To clean and prepare customer sales data for analysis.
 - Python
 - Pandas
 - Excel
+- Notepad
 
 ## Outcome
 Final cleaned dataset ready for analysis and reporting.
+
